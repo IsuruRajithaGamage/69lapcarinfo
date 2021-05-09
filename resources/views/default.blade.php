@@ -7,7 +7,15 @@
     <title>Tyler Potts</title>
     <links rel="stylesheets" href="{{asset('css/app.css')}}" />
 </head>
-<body>
+<body class="big-gray-700 text-white">
+
+<Header>Header</Header>
+<main>
+@yield('page-content')
+</main>
+<footer>
+Foorter
+</footer>
     
 </body>
 </html>
