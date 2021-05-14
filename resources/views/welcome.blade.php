@@ -7,10 +7,12 @@
             <h2 class="text-4xl sm:text-8xl">Explore <span class="text-pink-500">Cars</span></h2>
             <h3 class="text-2xl sm:text-4xl italic">69LapCarInfo.com</h3>
 
+            <a href="{{ route('car')}}" class="text-center">GO</a>
+
         </div>
 
         <div class="absolute bottom-0 left-0 right-0 p-20">
-            <p class="text-center">Scroll to explore</p>
+           
 
         </div>
 
@@ -26,7 +28,6 @@
                 and uploader can find someone by best price and rated by others! 
             </p>
             
-
         </div>
     </section>
     

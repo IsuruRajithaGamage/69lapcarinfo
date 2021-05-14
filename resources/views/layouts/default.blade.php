@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gray-700 text-white">
     
-        <Header class="fixed bg-gray-700 top-0 left-0 right-0 z-50">
+        <Header class="fixed bg-gray-900 top-0 left-0 right-0 z-50">
         <div class="container mx-auto flex justify-between p-4">
             <h1 class="text-xl font-black"> Car.Info </h1>    
             <nav class="mx-2">
@@ -23,6 +23,7 @@
         </Main>
         <footer>
             <div class="container mx-auto p-4">
+                
                 <p>&copy; Car Info | explore cars </p>
 
             </div>
