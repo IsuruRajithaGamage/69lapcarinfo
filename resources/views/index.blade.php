@@ -25,7 +25,6 @@
                 easy to find just uploading your assignment file to the website workers can bid their price for the work.
                 and uploader can find someone by best price and rated by others! 
             </p>
-            <a href="{{route('about')}}" class="bg-pink-500 text-center py-2 px-4 rounded hover:bg-purple-500 transition">Learn more </a>
         </div>
     </section>
     
