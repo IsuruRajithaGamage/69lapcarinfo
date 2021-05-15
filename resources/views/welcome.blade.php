@@ -7,7 +7,7 @@
             <h2 class="text-4xl sm:text-8xl">Explore <span class="text-pink-500">Cars</span></h2>
             <h3 class="text-2xl sm:text-4xl italic">69LapCarInfo.com</h3>
 
-            <a href="{{ route('car')}}" class="text-center">GO</a>
+            <a href="{{ route('car')}}" class="text-center">SUVs</a>
 
         </div>
 
