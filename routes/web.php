@@ -21,6 +21,19 @@ Route::get('/car', function () {
     return view('car');
 })->name('car');
 
+Route::get('/SUV', function () {
+    return view('SUV');
+})->name('SUV');
+
+Route::get('/pickups', function () {
+    return view('pickups');
+})->name('pickups');
+
+Route::get('/Bike', function () {
+    return view('Bike');
+})->name('Bike');
+
+
 
 
 
